@@ -1,0 +1,1 @@
+jar -cvf task09.jar ..\task10\bin\task09\task09.class 

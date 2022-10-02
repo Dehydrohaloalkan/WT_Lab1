@@ -1,0 +1,2 @@
+javac ..\task09\task09.java ..\task09\model\*.java ..\task09\repostories\*.java -d bin
+java -cp bin task09.task09
